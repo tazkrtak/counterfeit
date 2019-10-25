@@ -80,6 +80,10 @@
             "quantity": 10
         }
     ],
-    "users-count": 5843,
-    "buses-count": 72
+    "users-count": {
+        "value": 5843
+    },
+    "buses-count": {
+        "value": 67
+    }
 }
