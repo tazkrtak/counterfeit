@@ -62,5 +62,22 @@
             "number": 2019,
             "usage": 18720
         }
+    ],
+    "buses": [
+        {
+            "number": 820,
+            "passengers": 116,
+            "quantity": 6
+        },
+        {
+            "number": 35,
+            "passengers": 293,
+            "quantity": 2
+        },
+        {
+            "number": 110,
+            "passengers": 157,
+            "quantity": 10
+        }
     ]
 }
